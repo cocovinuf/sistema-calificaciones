@@ -1,0 +1,39 @@
+body {
+  font-family: sans-serif;
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #f2f2f2;
+}
+
+
+.centrado{
+  border: 1px black solid;
+  text-align: center;
+}
+
+.caja-login {
+  border: 1px solid black;
+  border-radius: 10px;
+  padding: 20px;
+  width: 300px;
+  margin-top: 20px;
+  background-color: antiquewhite;
+}
+
+.campos-login {
+  width: 100%;
+  padding: 15px;
+  margin: 8px 0;
+  box-sizing: border-box;
+}
+
+.boton-login {
+  background-color: #4CAF50;
+  color: white;
+  padding: 15px 20px;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+}

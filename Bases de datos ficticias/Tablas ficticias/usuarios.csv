@@ -1,0 +1,26 @@
+﻿id_usuario;nombre_usuario;dni_usuario;email_usuario;contrasena_usuario;rol_usuario;id_sede
+1;Mateo Rivas;22222222;22222222@gmail.com;22222222;Profesor;0
+2;Camila Ferrer;22222223;22222223@gmail.com;22222223;Profesor;0
+3;Lucas Montoya;22222224;22222224@gmail.com;22222224;Profesor;0
+4;Valentina Quiroga;22222225;22222225@gmail.com;22222225;Profesor;0
+5;Tomás Salcedo;22222226;22222226@gmail.com;22222226;Profesor;0
+6;Martina Paredes;22222227;22222227@gmail.com;22222227;Profesor;0
+7;Bruno Cáceres;22222228;22222228@gmail.com;22222228;Profesor;0
+8;Sofía Maldonado;22222229;22222229@gmail.com;22222229;Profesor;0
+9;Julián Navarro;22222230;22222230@gmail.com;22222230;Profesor;0
+10;Paula Benítez;22222231;22222231@gmail.com;22222231;Profesor;0
+11;Ignacio Duarte;22222232;22222232@gmail.com;22222232;Profesor;0
+12;Renata Godoy;22222233;22222233@gmail.com;22222233;Profesor;0
+13;Franco Leiva;22222234;22222234@gmail.com;22222234;Profesor;0
+14;Daniela Peralta;22222235;22222235@gmail.com;22222235;Profesor;0
+15;Nicolás Aranda;22222236;22222236@gmail.com;22222236;Profesor;0
+16;Abril Farías;22222237;22222237@gmail.com;22222237;Profesor;0
+17;Ramiro Acosta;22222238;22222238@gmail.com;22222238;Profesor;0
+18;Lucía Coronel;22222239;22222239@gmail.com;22222239;Profesor;0
+19;Gonzalo Villalba;22222240;22222240@gmail.com;22222240;Profesor;0
+20;Micaela Sosa;22222241;22222241@gmail.com;22222241;Profesor;0
+21;Esteban Núñez;22222242;22222242@gmail.com;22222242;Profesor;0
+22;Carla Vega;22222243;22222243@gmail.com;22222243;Tutor;1
+23;Lautaro Ibáñez;22222244;22222244@gmail.com;22222244;Tutor;3
+24;Florencia Méndez;22222245;22222245@gmail.com;22222245;Tutor;7
+25;Rodrigo Palacios;22222246;22222246@gmail.com;22222246;Tutor;10

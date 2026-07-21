@@ -1,0 +1,45 @@
+.caja-selector-materias{
+    border: solid black 1px;
+    border-radius: 10px;
+    padding: 10px;
+    width: 95%;
+    margin-top: 20px;
+    background-color: antiquewhite;
+
+    display: flex;
+    flex-direction: column;
+    gap: 5px
+
+}
+
+
+.selector-materia{
+    text-decoration: none;
+    background-color: lightgray;
+    margin-bottom: 5px;
+    font-size: 18px;
+    color: black;
+    border: solid black 1px;
+    border-radius: 5px;
+    width: 30%;
+    padding: 5px;
+
+}
+
+.boton-cerrar-sesion{
+    margin-top: 20px;
+    text-decoration: none;
+    background-color: rgb(180, 66, 66);
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.boton-cambiar-contrasena{
+    margin-top: 20px;
+    text-decoration: none;
+    background-color: rgb(47, 0, 255);
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+}
